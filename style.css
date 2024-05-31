@@ -1,0 +1,12 @@
+.contenu__restapipays {
+	text-align: justify;
+	padding: 2rem;
+	background-color: var(--clr-orange-pale);
+	color: var(--clr-beige-leger);
+	width: 77%;
+	font-size: 0.7rem;
+	display: flex;
+	justify-content: center;
+	gap: 2rem;
+	flex-direction: column;
+} /*# sourceMappingURL=style.css.map */
